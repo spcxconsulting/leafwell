@@ -1,0 +1,7 @@
+node_modules/
+dist/
+template/
+test-results/
+public/assets/vendor/
+config/formpop-embed.html
+package-lock.json

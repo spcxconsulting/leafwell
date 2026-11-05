@@ -1,0 +1,9 @@
+{
+  "siteUrl": "",
+  "indexable": false,
+  "formpop": {
+    "enabled": false,
+    "endpoint": "",
+    "embedFile": "config/formpop-embed.html"
+  }
+}
