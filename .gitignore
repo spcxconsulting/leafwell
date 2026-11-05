@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.wrangler/
+test-results/
+.env*
+.dev.vars*
+!.env.example
+# Preserve the supplied commercial template locally; do not redistribute it.
+template/
+# Paste account-specific generated Formpop embed here, never credentials.
+config/formpop-embed.html
